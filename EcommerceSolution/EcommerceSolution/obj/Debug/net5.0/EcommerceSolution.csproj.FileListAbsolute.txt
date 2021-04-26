@@ -1,0 +1,15 @@
+C:\Users\s s infotech\source\repos\EcommerceSolution\EcommerceSolution\bin\Debug\net5.0\EcommerceSolution.exe
+C:\Users\s s infotech\source\repos\EcommerceSolution\EcommerceSolution\bin\Debug\net5.0\EcommerceSolution.deps.json
+C:\Users\s s infotech\source\repos\EcommerceSolution\EcommerceSolution\bin\Debug\net5.0\EcommerceSolution.runtimeconfig.json
+C:\Users\s s infotech\source\repos\EcommerceSolution\EcommerceSolution\bin\Debug\net5.0\EcommerceSolution.runtimeconfig.dev.json
+C:\Users\s s infotech\source\repos\EcommerceSolution\EcommerceSolution\bin\Debug\net5.0\EcommerceSolution.dll
+C:\Users\s s infotech\source\repos\EcommerceSolution\EcommerceSolution\bin\Debug\net5.0\ref\EcommerceSolution.dll
+C:\Users\s s infotech\source\repos\EcommerceSolution\EcommerceSolution\bin\Debug\net5.0\EcommerceSolution.pdb
+C:\Users\s s infotech\source\repos\EcommerceSolution\EcommerceSolution\obj\Debug\net5.0\EcommerceSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s s infotech\source\repos\EcommerceSolution\EcommerceSolution\obj\Debug\net5.0\EcommerceSolution.AssemblyInfoInputs.cache
+C:\Users\s s infotech\source\repos\EcommerceSolution\EcommerceSolution\obj\Debug\net5.0\EcommerceSolution.AssemblyInfo.cs
+C:\Users\s s infotech\source\repos\EcommerceSolution\EcommerceSolution\obj\Debug\net5.0\EcommerceSolution.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\source\repos\EcommerceSolution\EcommerceSolution\obj\Debug\net5.0\EcommerceSolution.dll
+C:\Users\s s infotech\source\repos\EcommerceSolution\EcommerceSolution\obj\Debug\net5.0\ref\EcommerceSolution.dll
+C:\Users\s s infotech\source\repos\EcommerceSolution\EcommerceSolution\obj\Debug\net5.0\EcommerceSolution.pdb
+C:\Users\s s infotech\source\repos\EcommerceSolution\EcommerceSolution\obj\Debug\net5.0\EcommerceSolution.genruntimeconfig.cache
